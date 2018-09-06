@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+  <html>
+  <head>
+  <title>My pet</title>
+  </head>
+  <body>
+  <h1>My pet</h1>
+  <h2>Dog</h2>
+  <p>Here are some facts about my dog</p>
+  <ol>
+  <li>Have a big head</li>
+  <li>Understands english</li>
+  <li>Its white in colour<li>
+  
